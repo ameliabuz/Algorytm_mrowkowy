@@ -1,5 +1,5 @@
 import random as rn
-import numpy as npgit 
+import numpy as np
 from numpy.random import choice as np_choice
 
 
